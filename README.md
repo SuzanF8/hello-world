@@ -1,2 +1,8 @@
 # hello-world
-Just another awesome repository
+
+-----------
+-----------
+
+Hello All,
+
+FCC Engineer and Travel Photographer - Nice to meet you all.
